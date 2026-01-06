@@ -34,3 +34,7 @@ This repo contains as example how to use nicegui to implement
 - Stripe account also required
 - run `pip install -r requirements.txt`
 - start with `python main.py`
+
+## Yt
+
+https://www.youtube.com/watch?v=e1_tG16CSGs
